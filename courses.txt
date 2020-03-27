@@ -1,0 +1,7 @@
+Science, Technology, and Culture*This course critically examines how culture shapes science and technology and vice versa*1*1*1,2,3
+Principles of Plant Science*Introduction to botanical concepts*2*2*4,5,6
+Fantasy and Worldbuilding*Theory and practice of fantasy writing*3*3*7,8,9
+Front-End Web Design*Principles of front-end web design using current markup and style languages*4*4*10,11,12
+Physical Computing*Integrate physical computing techniques and hardware design into their digital media projects and games*5*1*13,14,15
+Game Testing*Impact of testing games through the exploration of real-world examples, peer critique, and personal analysis*6*2*2,5,8
+Web Design Workshop II*Practice collaborative skills through designing and implementing professional quality websites*7*3*3,6,9
