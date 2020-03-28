@@ -45,7 +45,7 @@ For adding or modyfing courses, you should use ***courses.txt*** file. So it's s
 Course name*Course Description*Teacher id*Classroom id*Student1 id, Student2 id
 ```
 
-So, as you see, you need to know the classroom, teacher, and students id, that are presented on the previous files. Don´t forget to separate by commas the students id !
+So, as you see, you need to know the classroom, teacher, and students id, that are presented on the previous files. Don´t forget to separate by commas the students id !!
 
 ## Notes
 
