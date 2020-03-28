@@ -1,6 +1,12 @@
 # JavaAcademyFinalProject
 This repository contains the Academy Java Final exercise for TAE at Globant.
 
+First of all, use the following command to clone the repository:
+
+```git clone https://github.com/camila-jaramillo/JavaAcademyFinalProject.git```
+
+After you clone the repo, use an IDE as NetBeans, Eclipse or Intellij to open it. This project was developed using Eclipse, so it's preferably to use it to execute the project. The main class is located at package ***com.globant.test*** and it's name is ***UniversitySystemTest.java***, use it to run the project.
+
 This project contains files processing. It means that the information is injected by reading files. So if you want to add preloaded courses classrooms, teachers, or student, you could modify the attached files in this repository.
 
 Then, remember to use the following instructions if you want to add or modify the current files.
