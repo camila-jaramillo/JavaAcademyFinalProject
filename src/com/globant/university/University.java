@@ -119,6 +119,7 @@ public class University implements IUniversitySystem {
 				Student student = new Student(name);
 				course.getStudent().add(student);
 				student.getCourses().add(course);
+				this.getStudents().add(student);
 				return true;
 			}
 		}
